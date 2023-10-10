@@ -36,13 +36,13 @@ https://bodysize.org/en/dana-taylor/
 
 ## Data cleaning
 
-The raw data is cleaned to be [output/playmate.dta](https://github.com/wangshasha111/playboy_playmate_bmi_body_measurements/blob/main/output/playmate.dta)containing the models' body measurements and time.
+The raw data is cleaned to be [output/playmate.dta](https://github.com/wangshasha111/playboy_playmate_bmi_body_measurements/blob/main/output/playmate.dta) containing the models' body measurements and time.
 
 ## Outputs
 
 The primary outputs are three graphs depicting the time sequence of 
 
-1. the weight, height, and bmi of the models; [(playmate_fit_bmi_height_weight.png)](https://github.com/wangshasha111/playboy_playmate_bmi_body_measurements/blob/main/output/playmate_fit_bmi_height_weight.png)
+1. the weight, height, and BMI of the models; [(playmate_fit_bmi_height_weight.png)](https://github.com/wangshasha111/playboy_playmate_bmi_body_measurements/blob/main/output/playmate_fit_bmi_height_weight.png)
 2. the measurement of the bust, the waist, and the hips of the models; [(playmate_measurement.png)](https://github.com/wangshasha111/playboy_playmate_bmi_body_measurements/blob/main/output/playmate_measurement.png)
 3. the ratio-related measurement of the models; [(playmate_ratio.png)](https://github.com/wangshasha111/playboy_playmate_bmi_body_measurements/blob/main/output/playmate_ratio.png)
 
