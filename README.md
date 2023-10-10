@@ -24,7 +24,7 @@ and other reliable sources such as
 
 
 https://www.fashionmodeldirectory.com/
-models.com
+https://www.models.com/
 http://wekinglypigs.com/cgi-bin/nand/search/pmstat?browse=%3A%3ACONFIG%3A%3Adatebrowse
 https://www.boobpedia.com/boobs/Margie_Harrison
 
