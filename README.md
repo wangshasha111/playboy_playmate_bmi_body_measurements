@@ -11,7 +11,7 @@ The Playboy Playmate is a distinctive feature of Playboy magazine, introduced by
 ## Data collection
 
 
-I manually collected the data from the internet by looking into the playmates' wikipedia and/or taking from other webpages, including:
+I manually collected the data from the internet by looking into the playmates' Wikipedia and/or taking from other web pages, including:
 
 https://www.wired.com/2015/10/playboy-playmates-bmi/
 https://celebriot.com/joni-mattis-weight-height-measurements-ethnicity-eye-color-j1
@@ -41,21 +41,18 @@ The raw data is cleaned to be [output/playmate.dta](https://github.com/wangshash
 ## Outputs
 
 The primary outputs are three graphs depicting the time sequence of 
-#### the weight, height, and bmi of the models; [(playmate_fit_bmi_height_weight.png)](https://github.com/wangshasha111/playboy_playmate_bmi_body_measurements/blob/main/output/playmate_fit_bmi_height_weight.png)
 
-#### the measurement of the bust, the waist, and the hips of the models; [(playmate_measurement.png)](https://github.com/wangshasha111/playboy_playmate_bmi_body_measurements/blob/main/output/playmate_measurement.png)
-
-#### the ratio-related measurement of the models; [(playmate_ratio.png)](https://github.com/wangshasha111/playboy_playmate_bmi_body_measurements/blob/main/output/playmate_ratio.png)
+1. the weight, height, and bmi of the models; [(playmate_fit_bmi_height_weight.png)](https://github.com/wangshasha111/playboy_playmate_bmi_body_measurements/blob/main/output/playmate_fit_bmi_height_weight.png)
+2. the measurement of the bust, the waist, and the hips of the models; [(playmate_measurement.png)](https://github.com/wangshasha111/playboy_playmate_bmi_body_measurements/blob/main/output/playmate_measurement.png)
+3. the ratio-related measurement of the models; [(playmate_ratio.png)](https://github.com/wangshasha111/playboy_playmate_bmi_body_measurements/blob/main/output/playmate_ratio.png)
 
 
 ## Takeaway
 There are three takeaways of the project pertaining to the three projects respectively.
 
-#### The average BMI has been decreasing steadily and the height has been increasing steadily.
-
-#### The average bust-waist-hips measurement shows that the typical body shape of the models is becoming more and more **stick-thin**.
-
-#### The ratio-related measurement shows that the body shapes are becoming less and less **feminine**, i.e., with cupsize decreasing, waist-to-bust and waist-to-hips ratios both increasing.
+1. The average BMI has been decreasing steadily and the height has been increasing steadily.
+2. The average bust-waist-hips measurement shows that the typical body shape of the models is becoming more and more **stick-thin**.
+3. The ratio-related measurement shows that the body shapes are becoming less and less **feminine**, i.e., with cupsize decreasing, waist-to-bust and waist-to-hips ratios both increasing.
 
 
 
