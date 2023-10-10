@@ -1,0 +1,1 @@
+Bootstrapper.bindImmediate(function(){var Bootstrapper=window["Bootstrapper"];var ensightenOptions=Bootstrapper.ensightenOptions;(function hideLeaderBoardOnMobile(){var browser=window.innerWidth;if(browser<980){var lb=document.querySelector(".leaderboard-ad");if(lb)lb.style.display="none"}})()},3557701,689205);

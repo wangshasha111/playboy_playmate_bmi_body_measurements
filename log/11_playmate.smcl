@@ -1,0 +1,72 @@
+{smcl}
+{com}{sf}{ul off}{txt}{.-}
+      name:  {res}<unnamed>
+       {txt}log:  {res}/Users/wss2023/Dropbox/stata/playmate/log/11_playmate.smcl
+  {txt}log type:  {res}smcl
+ {txt}opened on:  {res} 9 Oct 2023, 19:26:24
+{txt}
+{com}. cd $AVZ
+{res}/Users/wss2023/Dropbox/stata/playmate
+{txt}
+{com}. import delimited ${c -(}MY_IN_PATH{c )-}clean_shasha_1702_Infoporn_Playmate_Data.csv
+{res}{text}(11 vars, 810 obs)
+
+{com}. 
+. rename ïmonth month
+{res}{txt}
+{com}. gen waist2bust = waist/bust
+{txt}
+{com}. 
+. 
+. label var month "month"
+{txt}
+{com}. label var year "year"
+{txt}
+{com}. label var bust "bust (in)"
+{txt}
+{com}. label var cupsize "cup size"
+{txt}
+{com}. label var waist "waist (in)"
+{txt}
+{com}. label var hips "hips (in)"
+{txt}
+{com}. label var height "height (in)"
+{txt}
+{com}. label var weight "weight (lbs)"
+{txt}
+{com}. label var bmi "BMI"
+{txt}
+{com}. label var waist2hip "waist-to-hip ratio"
+{txt}
+{com}. label var waist2bust "waist-to-bust ratio"
+{txt}
+{com}. label var model_of_the_year "1 = model of the year"
+{txt}
+{com}. 
+. //drop if weight > 200
+. 
+. save ${c -(}MY_OUT_DATA{c )-}playmate.dta, replace
+{txt}file /Users/wss2023/Dropbox/stata/playmate/output/playmate.dta saved
+
+{com}. 
+. {err}attribute {bf:quitely} not valid in {bf:dd_do} tag
+{txt}{search r(198), local:r(198);}
+
+{com}. help markstat
+
+. help markstat
+
+. ssc install whereis
+{txt}checking {hilite:whereis} consistency and verifying not already installed...
+installing into /Users/wss2023/Library/Application Support/Stata/ado/plus/...
+installation complete.
+
+{com}. 
+. 
+. ssc install markstat
+{txt}checking {hilite:markstat} consistency and verifying not already installed...
+all files already exist and are up to date.
+
+{com}. 
+. 
+. 
