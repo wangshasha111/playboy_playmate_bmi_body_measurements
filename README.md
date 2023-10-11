@@ -34,6 +34,9 @@ https://www.famousfix.com/topic/linne-ahlstrand/wiki
 https://www.maggieagency.com/divisions/direct/portfolios/allie-silva
 https://bodysize.org/en/dana-taylor/
 
+## Software
+STATA SE 16.0
+
 ## Data cleaning
 
 The raw data is cleaned to be [output/playmate.dta](https://github.com/wangshasha111/playboy_playmate_bmi_body_measurements/blob/main/output/playmate.dta) containing the models' body measurements and time.
