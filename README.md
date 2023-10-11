@@ -1,4 +1,4 @@
-# playboy_playmate_bmi_body_measurements
+# Using STATA to Track the Body Measurements of Playboy Playmates
  
 ## Goals
 
